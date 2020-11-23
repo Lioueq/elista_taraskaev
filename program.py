@@ -1,8 +1,5 @@
 def main():
-    print('My first git program')
-    print('123')
-    print('12312414124')
-
+    print('My first git-repo')
 
 if __name__ == '__main__':
     main()
